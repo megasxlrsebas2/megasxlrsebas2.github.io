@@ -1,6 +1,8 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
+# NOTES
+# To run locally type in git bash: bundle exec jekyll serve
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Sebastián 
@@ -8,7 +10,7 @@ middle_name:
 last_name: Villamayor
 email: megasxlrsebas2@hotmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  The Hub for all of Sebas related things!
+  The Hub for all Sebas related things!
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -106,7 +108,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Best way to reach me is Twitter or email!
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -122,8 +124,8 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
+blog_name: Sebas's Blog # blog_name will be displayed in your blog page
+blog_nav_title: C-blog # your blog must have a title for it to be displayed in the nav bar
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 
