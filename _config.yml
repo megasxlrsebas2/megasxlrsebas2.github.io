@@ -143,8 +143,9 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Sebas's Things! # blog_name will be displayed in your blog page
-blog_nav_title: Portfolio # your blog must have a title for it to be displayed in the nav bar
+blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
 blog_description: Game Design Generalist. Creative. Writer. Sound Designer/Producer. Musician. Production. IGDAPY Board.
+permalink: /blog/ #:year/:title/
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
