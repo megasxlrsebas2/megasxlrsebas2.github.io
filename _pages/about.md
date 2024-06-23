@@ -2,27 +2,34 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <b>Game Design Generalist. Creative. Writer. Sound Designer/Producer. Musician. Production. IGDAPY Board.</b>
+subtitle: <b></b>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  # image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>Le me, at GDC 2023,</p>
-    <p>with my Northlane shirt</p>
-    <p>after seeing them twice in the US.</p>
+  # address: >
+  #   <p>Le me, at GDC 2023,</p>
+  #   <p>with my Northlane shirt</p>
+  #   <p>after seeing them twice in the US.</p>
 
 news: false  # includes a list of news items
-latest_posts: false  # includes a list of the newest posts
+latest_posts: true  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+_styles: 
+    font-family: notosans-semibold;
+
+    
+
 ---
 
+***
 
-Welcome to my portfolio page! A little hub for all the things I do.
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+# Welcome to my **super-cool** site!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+### This is a total mess but there's loads of fun stuff. Like the websites _used_ to be.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+This is all this is for now. But stay tuned.
+
+***

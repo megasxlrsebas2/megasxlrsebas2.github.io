@@ -4,17 +4,15 @@
 # NOTES
 # To run locally type in git bash: bundle exec jekyll serve
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: Sebastián 
+title: Sebas.com! # the website title (if blank, full name will be used instead)
+first_name: Sebastián Villamayor 
 middle_name: 
-last_name: Villamayor
+last_name: 
 email: megasxlrsebas2@hotmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   The Hub for all Sebas related things!
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+  A fancy footer that came with the template, look at it. I'm thinking of getting rid of it, though.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
@@ -47,14 +45,14 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 
 # Dimensions
 max_width: 800px
@@ -126,7 +124,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: Sebas's Things! # blog_name will be displayed in your blog page
 blog_nav_title: Portfolio # your blog must have a title for it to be displayed in the nav bar
-blog_description: Here you will find samples of my varied work
+blog_description: Game Design Generalist. Creative. Writer. Sound Designer/Producer. Musician. Production. IGDAPY Board.
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -134,7 +132,7 @@ pagination:
   enabled: true
 
 related_blog_posts:
-  enabled: true
+  enabled: false
   max_related: 5
 
 # Giscus comments (RECOMMENDED)
@@ -161,8 +159,8 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+ # - name: medium.com
+   # rss_url: https://medium.com/@al-folio/feed
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -179,12 +177,12 @@ collections:
     permalink: /projects/:path/
 
 announcements:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
