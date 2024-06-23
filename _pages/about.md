@@ -34,12 +34,12 @@ social: true  # includes social icons at the bottom of the page
 ***
 
 
-If you arrived here from a work thing, you might be looking for my [CV]({% link _pages/cv.md %}) and my [Portfolio]
+If you arrived here from a work thing, you might be looking for my [CV]({% link _pages/cv.md %}) and my **Portfolio**
 
 
-Go play some [Games] that I've made, right on the browser like cool sites used to do.
+Go play some **Games** that I've made, right on the browser like cool sites used to do.
 
-Check out my [Blog] for literally all kinds of things I write about.
+Check out my **Blog** for literally all kinds of things I write about.
 
 This is all this is for now. But stay tuned.
       
