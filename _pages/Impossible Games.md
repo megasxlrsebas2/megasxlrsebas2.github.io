@@ -8,3 +8,5 @@ nav_order: 7
 ---
 
 ### [Impossible Games Official Site](www.impossiblegames.fun)
+
+Ya.
