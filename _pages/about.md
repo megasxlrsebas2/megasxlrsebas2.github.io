@@ -28,16 +28,15 @@ social: true  # includes social icons at the bottom of the page
 
 ## Welcome to my **super-cool** site!
 
-##### This is a total mess but there's loads of fun stuff. Like the websites _used_ to be.
-
 
 ***
+Note: I'm building this site out slowly. Some stuff might still be from the template lol.
 
+***
+##### Quick Navigation
+- If you arrived here from a work thing, you might be looking for my [CV]({% link _pages/cv.md %}).
 
-If you arrived here from a work thing, you might be looking for my [CV]({% link _pages/cv.md %}) and my **Portfolio**
-
-
-Go play some **Games** that I've made, right on the browser like cool sites used to do.
+- Check out the [Games]({% link _pages/Games.md %}) that I've worked on, and even **play some of them**, right on the browser like cool sites used to do (IF I HAVE GOTTEN THE WEBGLS UP ALREADY, otherwise I'm working on it).
 
 Check out my **Blog** for literally all kinds of things I write about.
 
