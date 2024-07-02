@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Games
-permalink: /games/
+permalink: /Games/
 description: Oh boy. Video games are like, my main thing.
 nav: true
 nav_order: 1
