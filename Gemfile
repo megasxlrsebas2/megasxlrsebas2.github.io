@@ -17,6 +17,7 @@ group :jekyll_plugins do
     gem 'jemoji'
     gem 'unicode_utils'
     gem 'webrick'
+    gem 'jekyll-mermaid', '~> 1.0'
 
 
 end
