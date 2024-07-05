@@ -52,3 +52,5 @@ group :other_plugins do
     gem 'feedjira'
     gem 'httparty'
 end
+
+gem "jekyll-seo-tag", "~> 2.8"
