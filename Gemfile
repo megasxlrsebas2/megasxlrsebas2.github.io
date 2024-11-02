@@ -17,8 +17,12 @@ group :jekyll_plugins do
     gem 'jemoji'
     gem 'unicode_utils'
     gem 'webrick'
+
+
 end
 group :other_plugins do
     gem 'feedjira'
     gem 'httparty'
 end
+
+gem "jekyll-seo-tag", "~> 2.8"
