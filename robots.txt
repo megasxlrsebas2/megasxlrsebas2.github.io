@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://megasxlrsebas2.github.io/home/sitemap.xml
