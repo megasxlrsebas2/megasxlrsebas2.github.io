@@ -3,7 +3,7 @@ layout: page
 title: Every Day
 description: The first (very depressing) thing I did.
 img: assets/img/every_day_cover.png
-importance: 3
+importance: 8
 category: Game Jams
 ---
 

@@ -3,7 +3,7 @@ layout: page
 title: Root House
 description: Short and sweet adventure game with awesome jokes.
 img: assets/img/rootHouse.png
-importance: 1
+importance: 2
 category: Game Jams
 ---
 

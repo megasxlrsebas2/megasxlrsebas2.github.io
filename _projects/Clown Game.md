@@ -3,7 +3,7 @@ layout: page
 title: Clown Game
 description: Juggle being a clown and your mafia past.
 img: assets/img/clownGamePreview.png
-importance: 2
+importance: 6
 category: Game Jams
 ---
 

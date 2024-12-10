@@ -3,7 +3,7 @@ layout: page
 title: Comic-o-Meter
 description: Short and sweet adventure game with awesome jokes.
 img: assets/img/rootHouse.png
-importance: 4
+importance: 7
 category: Game Jams
 ---
 
