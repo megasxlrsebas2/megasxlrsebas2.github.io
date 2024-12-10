@@ -54,7 +54,7 @@ footer_fixed: false
 search_enabled: true
 socials_in_search: true
 bib_search: true
-footer_fixed: false
+
 
 # Dimensions
 max_width: 930px
@@ -95,28 +95,14 @@ blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
-lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-linkedin_username: # your LinkedIn user name
-mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-medium_username: # your Medium username
-orcid_id: # your ORCID ID
-osf_id: # your OSF ID
 pinterest_id: # your pinterest id
-publons_id: # your ID on Publons
-quora_username: # your Quora username
-research_gate_profile: # your profile on ResearchGate
-scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
-scopus_id: # your profile on Scopus
-semanticscholar_id: # your Semantic Scholar ID
 spotify_id: # your spotify id
 stackoverflow_id: # your stackoverflow id
-telegram_username: # your Telegram user name
+
 unsplash_id: # your unsplash id
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
-whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
-work_url: # work page URL
 x_username: # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
@@ -146,7 +132,6 @@ blog_name: Sebas's Things! # blog_name will be displayed in your blog page
 blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
 blog_description: Game Design Generalist. Creative. Writer. Sound Designer/Producer. Musician. Production. IGDAPY Board.
 permalink: /blog/ #:year/:title/
-permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
 # Pagination
@@ -425,8 +410,9 @@ imagemagick:
     - ".tiff"
     - ".gif"
   output_formats:
-    webp: "-quality 85"
-    webp: "-resize 800x"
+    webp: 
+    - "-quality 85"
+    - "-resize 800x"
 
 # -----------------------------------------------------------------------------
 # Jekyll Diagrams
