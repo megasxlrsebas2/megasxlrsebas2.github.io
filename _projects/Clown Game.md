@@ -10,7 +10,7 @@ category: Game Jams
 https://sinono3.itch.io/juego-de-malabar-endless-juggler
 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+To give your project a background in the portfolio page, sjust add the img tag to the front matter like so:
 
     ---
     layout: page
