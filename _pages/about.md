@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Home
+title: 
 permalink: /
 subtitle: <b></b>
 nav: false
@@ -41,8 +41,8 @@ Note: I'm building this site out slowly. Some stuff might still be from the temp
 Check out my **Blog** for literally all kinds of things I write about.
 
 This is all this is for now. But stay tuned.
-      
-**Pro tip: Press Ctrl+K for a super-cool super-hacker search**                                            
+
+##### **Pro tip: Press Ctrl+K for a super-cool super-hacker search**
 
 <div class="row mt-3">
     <div class="col-sm mt-1 mt-md-0">
