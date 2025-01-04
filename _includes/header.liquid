@@ -117,6 +117,14 @@
             </li>
           {% endif %}
           {% if site.enable_darkmode %}
+            <!-- Toogle language -->
+<li class="nav-item active">
+  {% if site.lang == "en" %}
+  <a class="nav-link" href="{{site.baseurl_root}}/es{{page.url}}"> ESPAÑOL </a>
+  {% elsif site.lang == "es" %}
+  <a class="nav-link" href="{{site.baseurl_root}}{{page.url}}"> ENGLISH </a>
+  {% endif %}
+</li>
             <!-- Toogle theme mode -->
             <li class="toggle-container">
               <button id="light-toggle" title="Change theme">
