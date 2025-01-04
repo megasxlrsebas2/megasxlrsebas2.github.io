@@ -269,6 +269,12 @@ plugins:
   - jekyll-twitter-plugin
   - jemoji
   - jekyll-seo-tag
+  - jekyll-multiple-languages-plugin
+
+# multi language settings
+languages: ["en", "es"]
+default_locale_in_subfolder: false
+
 
 # Sitemap settings
 defaults:
