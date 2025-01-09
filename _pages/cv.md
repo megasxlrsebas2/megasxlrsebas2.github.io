@@ -1,11 +1,11 @@
 ---
 layout: cv
 permalink: /cv/
-title: titles.cv
+title: CV
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf
-description: Professional CV in the internet.
+cv_pdf: cv-english.pdf
+description: Professional CV.
 toc:
   sidebar: left
 ---
