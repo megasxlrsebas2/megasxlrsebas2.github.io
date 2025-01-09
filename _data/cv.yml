@@ -97,6 +97,18 @@
         - Description 1.
         - Description 2.
 
+- title: Skills
+  type: nested_list
+  contents:
+    - title: Writer.
+      items: 
+        - Cool prose.
+        - Hunger increases productivity.
+    - title: Topic 2.
+      items:
+        - Description 1.
+        - Description 2.
+
 # - title: Other Interests
 #   type: list
 #   contents:
