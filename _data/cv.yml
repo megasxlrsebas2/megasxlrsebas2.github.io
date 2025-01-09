@@ -50,19 +50,27 @@
   contents:
     - title: <a href="https://game.ettios.io">ETTIOS Game</a>
       year: 2023
-      description: WebGL Game for a WFH client.
+      description: 
+      - WebGL Game for a WFH client.
+      - Design Lead
 
     - title: <a href="https://www.panjamvr.com/">Panjam VR</a>
       year: 2023-2024
-      description: Music and Sound Design.
+      description: 
+      - Virtual Reality Educational Rhythm Game.
+      - Music and Sound Design.
 
     - title: <a href="https://www.youtube.com/watch?v=WGWIe8FxKVk&t=3s">Romance Go</a>
       year: 2021-2023
-      description: Game Design.
+      description: 
+      - iOS/Android. 
+      - Game Design.
 
     - title: <a href="https://coinhunt.world/">Coin Hunt World</a>
       year: 2021-2022
-      description: QA/Live Ops.
+      description: 
+      - iOS/Android.
+      - QA/Live Ops.
 
 - title: Education
   type: time_table
@@ -73,7 +81,7 @@
       description:
         - title: Registered Dietitian.
           contents:
-          - Yes, this kind of doesn't have to do with anything.
+          - Yes, this has nothing to do with anything.
         - title: Health Professional.
           contents:
             - Basically a doctor.
@@ -104,10 +112,12 @@
       items: 
         - Cool prose.
         - Hunger increases productivity.
-    - title: Topic 2.
+        - Everything to do with anything.
+    - title: Programming.
       items:
-        - Description 1.
-        - Description 2.
+        - C#.
+        - Unity.
+        - Almost anything, given enough time.
 
 # - title: Other Interests
 #   type: list
