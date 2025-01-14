@@ -1,10 +1,19 @@
 - title: Info
   type: map
   contents:
-    - name: Full Name
+    - name: 
+      value: <i>(Tip- Most titles contain links to cited works!)</i>
+    - name: Name
       value: Sebastián Villamayor
     - name: Languages
       value: English, Spanish
+    - name: Email 
+      value: <a href="mailto:megasxlrsebas2@hotmail.com">megasxlrsebas2@hotmail.com</a></p>
+    - name: Location
+      value: Asunción, Paraguay
+    - name: Video Reel
+      value: <a href="https://youtu.be/nYlDOltZjOc"><b>Watch on YouTube</b></a></p>
+
 
 - title: Experience
   type: time_table
@@ -12,15 +21,15 @@
 
 
     - title: Founder/Design Lead
-      institution: Impossible Games, Paraguay
-      year: 2023-2024
+      institution: <a href="https://impossiblegames.fun"><b>Impossible Games</b></a>
+      year: 2023-2025
       description:
         - Project Lead in Work-For-Hire projects.
         - Game Design, Writing, Music, Sound Design, Programming.
         - Software development for local and international clients.
 
     - title: Game Designer 
-      institution: Posibillian Tech, Paraguay
+      institution: <a href="https://posibillian.tech/"><b>Posibillian Tech</b></a>
       year: 2022-2023
       description:
         - Was in charge of creating, prototyping, documenting, communicating and supervising game designs to fulfill a creative direction brief for "Romance GO", an upcoming mobile game.
@@ -32,18 +41,32 @@
             - Employed Agile Development Methodology, SCRUM, tasks tracking, client/stakeholder communications, alongside Production Lead.
 
     - title: Lead Level Designer
-      institution: Posibillian Tech, Paraguay
+      institution: <a href="https://posibillian.tech/"><b>Posibillian Tech</b></a>
       description:
       - Led a team of level designers to create experiences for an experience inside <a href="https://www.sandbox.game/en/">The Sandbox</a>, with a renowned (and NDA'd) IP.
       - Collaborated with <a href="https://devotedstudios.com/">Devoted Studios</a> and The Sandbox team's remotely.
       year: 2022
 
     - title: Quality Control Professional (QC/QA) 
-      institution: Posibillian Tech, Paraguay
+      institution: <a href="https://posibillian.tech/"><b>Posibillian Tech</b></a>
       year: 2021
       description:
       - Performed extensive testing and reporting for a live service game.
       - Was in close collaboration with development team.
+
+    - title: Registered Dietitian   
+      institution: Independent
+      year: 2019-2020
+      description:
+      - Give people diets and health advice.
+      - People call you doctor in spite of it being a Bachelor's degree.
+
+    - title: Professional Translator  
+      institution: <a href="https://www.goodreads.com/author/show/18304118.Nyoi_Bo_Studio"><b>Nyoi-Bo Studio</b></a>
+      year: 2017-2018
+      description:
+      - Professionaly tranlated Chinese science fiction books from English to Spanish.
+      - Worked with remote international team with people in the US, China, Latam.
 
 - title: Game Credits
   type: time_table
@@ -72,6 +95,12 @@
       - iOS/Android.
       - QA/Live Ops.
 
+    - title: <a href="https://youtu.be/lYKQsJdA_LA?si=NK4NV7fWL_ZGbBgf/">Niko "En Busca del Sabor Perdido"</a>
+      year: 2021
+      description: 
+      - iOS/Android/WebGL.
+      - Game Design, Level Design, Music & SFX.
+
 - title: Education
   type: time_table
   contents:
@@ -96,28 +125,46 @@
 - title: Other Works
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: <a hfref="https://gbogarin.itch.io/roothouse">Root House</a>
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Adventure Game.
+        - Writing, Music, Pixel Art.
+        - Global Game Jam 2023.
+    - title: <a hfref="https://sinono3.itch.io/juego-de-malabar-endless-juggler">Clown Game</a>
       items:
-        - Description 1.
-        - Description 2.
+        - Juggling game.
+        - Writing, Game Design, Music.
+        - Global Game Jam 2022.
+    - title: <a hfref="https://drive.google.com/file/d/1UgQsuX5HKxzGiFxtZf3jSQIP9MShV0fe/view?usp=sharing">Un Clásico</a>
+      items:
+        - Short Film.
+        - Writing credit.
 
 - title: Skills
   type: nested_list
   contents:
+    - title: Game Design.
+      items:
+        - Vast experience playing and analyzing PC and Console videogames.
+        - Studied several reference books such as "The Art of Game Design" by Jesse Schell.
+        - Was mentored by the likes of Rami Ismail, Gerson Da Silva.
+    - title: Game Programming.
+      items:
+        - C#.
+        - Unity.
+        - Git
+        - Webdev (this site)
     - title: Writer.
       items: 
         - Cool prose.
         - Hunger increases productivity.
         - Everything to do with anything.
-    - title: Programming.
+    - title: Music and Sound Design.
       items:
-        - C#.
-        - Unity.
-        - Almost anything, given enough time.
+        - Advanced Guitar player.
+        - Full track creation in DAWs with both digital and analog techniques.
+        - Creative layering for custom SFX creation.
+        - Experienced integrating FMOD with Unity.
 
 # - title: Other Interests
 #   type: list
@@ -127,4 +174,4 @@
 - title: Random Cool Stuff
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>GDC:</u> Went to GDC twice! 2023 and 2024. Hopefully more in the future!

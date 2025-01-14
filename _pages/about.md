@@ -33,8 +33,9 @@ social: true  # includes social icons at the bottom of the page
 Note: I'm building this site out slowly. Some stuff might still be from the template lol.
 
 ***
-##### Quick Navigation
-- If you arrived here from a work thing, you might be looking for my [CV]({% link _pages/cv.md %}).
+#### Quick Navigation
+- ##### [CV - Résumé]({% link _pages/cv.md %})
+- ##### [Video Reel](https://youtu.be/nYlDOltZjOc)
 
 - Check out the Games that I've worked on, and even **play some of them**, right on the browser like cool sites used to do (IF I HAVE GOTTEN THE WEBGLS UP ALREADY, otherwise I'm working on it).
 
